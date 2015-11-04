@@ -2,7 +2,7 @@
 
 **[Live Demo][live-demo]**
 
-[live-demo]: http://yoshihiroluk.co/yoshi-defense
+[live-demo]: http://yoshiluk.com/yoshi-defense
 
 ## How to Play
 
